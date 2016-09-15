@@ -1,0 +1,8 @@
+#surefire
+#Mon Nov 03 22:04:28 EET 2014
+maven.ext.class.path=C\:\\Program Files\\NetBeans 8.0.1\\java\\maven-nblib\\netbeans-eventspy.jar
+user.dir=C\:\\Users\\\u041A\u0438\u0440\u0438\u043B\u043B\\IdeaProjects\\CollectionsSHAD
+file.encoding=UTF-8
+localRepository=C\:\\Users\\\u041A\u0438\u0440\u0438\u043B\u043B\\.m2\\repository
+basedir=C\:\\Users\\\u041A\u0438\u0440\u0438\u043B\u043B\\IdeaProjects\\CollectionsSHAD
+test=ua.yandex.collections.MyLinkedListTest
